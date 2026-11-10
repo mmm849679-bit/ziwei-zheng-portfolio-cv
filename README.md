@@ -1,5 +1,5 @@
-# Ziwei Zheng | Design Portfolio
+# Ziwei Zheng | Portfolio & CV
 
-Portfolio: https://mmm849679-bit.github.io/ziwei-zheng-cv/
+Portfolio: https://mmm849679-bit.github.io/ziwei-zheng-portfolio-cv/
 
-CV: https://mmm849679-bit.github.io/ziwei-zheng-cv/cv.html
+CV: https://mmm849679-bit.github.io/ziwei-zheng-portfolio-cv/cv.html
